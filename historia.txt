@@ -3,4 +3,6 @@ Hola.
 Mi nombre es Alvaro Vidaurre soy de Bolivia y naci en 1988. 
 Ahora vivo en Lima Perú felizmente casado
 
+Estatura: 178 cm
+
 Gracias
